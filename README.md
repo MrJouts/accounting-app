@@ -1,4 +1,4 @@
-### Accounting System App
+# Accounting System App
 
 ## Frontend ( ReactJS )
 
@@ -9,13 +9,16 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
 ## Backend ( NodeJS )
 
 In the project directory go to api folder:
 
-### cd api
+### `cd api`
 
 In the api folder run:
 
-### npm run dev
+### `npm run dev`
+
+Runs the backend of the app <br />
+http://localhost:3001/api/transactions - Transactions <br />
+http://localhost:3001/api/cards - Cards 
