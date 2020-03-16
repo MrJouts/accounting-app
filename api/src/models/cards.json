@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Visa credit card",
+    "amount": 500,
+    "expirationDate": "12/21",
+    "number": "**** **** **** 2564"
+  },
+  {
+    "id": 2,
+    "name": "Visa debit card",
+    "amount": 100,
+    "expirationDate": "12/22",
+    "number": "**** **** **** 7622"
+  }
+]

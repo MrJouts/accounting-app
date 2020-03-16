@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mc Donalds",
+    "amount": 11,
+    "source": "1"
+  },
+  {
+    "id": 2,
+    "name": "Supermarket",
+    "amount": 34,
+    "source": "2"
+  },
+  {
+    "id": 3,
+    "name": "Starbucks",
+    "amount": 15,
+    "source": "2"
+  },
+  {
+    "id": 4,
+    "name": "Sara smith transfer",
+    "amount": 50,
+    "source": "1"
+  },
+  {
+    "id": 5,
+    "name": "H&M",
+    "amount": 55,
+    "source": "2"
+  }
+]
